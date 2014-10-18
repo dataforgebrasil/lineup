@@ -39,7 +39,7 @@ A lineup system is a set of easily installed software that runs on a Linux ubunt
 
 * Multilevel admin, users and guest login levels.  Admin can add, delete or change users that have the privilege to update the counter that they are assigned.  User level accounts can login to there counter number to allow update of the counter for there workspace.  At default guest level a guest can see the present queue numbers being served if guest level is enabled.
 
-* https encryption (self signed or class 2) can be added to secure a system if used with the wifi or wan option to prevent the system from being hacked by remote or local guest users.
+* HTTPS encryption (self signed or class 2) can be added to secure the Lineup system if used with the wifi or wan option to prevent the system from being hacked by remote or local guest users.
 
 * Add to the queue screen a small rate indicator of the average time it has been taking to serve the last X customers  so that people can estimate for themselves about how long they will have to wait.  
 
@@ -48,3 +48,5 @@ A lineup system is a set of easily installed software that runs on a Linux ubunt
 * On the browser of a phone or on a local terminal one could check the ETA (estimated time before service)  before a customer will be served.
 
 * With the added optional ticket printer, added to the printed ticket a QR code bar code of the URL can be  added to the ticket that contains the URL and params to point to the website of the  persons status in the queue of the store and his ETA estimated time to be serviced.  This QR code can be scanned and processed from standard software already available on smart phones with the QR code software installed.  This feature can also be used manually without the QR code.
+
+* With the optional wifi feature added, people that connect to the stores local wifi access point with phones or other devices, can be auto redirected to the Lineup website for this store to display the queue status and eta stats.
